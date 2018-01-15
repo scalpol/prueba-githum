@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
+}
+header {
+  min-height: 80px;
+}
+
+body {
+  margin: 0;
+}
+
+.blue {
+  background-color: #102542;
+}
+
+.black {
+  color: #0A0908;
+}
+
+.gunmetal {
+  color: #272838;
+}
+
+.platinum {
+  background-color: #E8E8E8;
+}
+
+.padding {
+  padding: 20px;
+}
+
+.content {
+  position: relative;
+  float: left;
+}
+
+.centered {
+  text-align: center;
+}
+
+.picture {
+  margin: 40px;
+}
+
+.bloques {
+  width: 48%;
+  display: inline-block;
+}
+
+footer {
+  clear: both;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+}
+
+.textfooter {
+  max-width: 500px;
+  margin: 20px 0px 20px 20px;
+  text-align: justify;
+  color: #E8E8E8;
+}
+
+.maintext {
+  font-family: "Roboto";
+}
+
+.textfooter {
+  font-family: "Lato";
+}
